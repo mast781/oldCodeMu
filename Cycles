@@ -13,3 +13,11 @@ const arrResult = []
 for(let i = 0; i < 10; i++) arrResult.push("X")
 
 console.log(arrResult)
+
+//Заполните массив числами от 1 до 10 с помощью цикла
+const arrResult = []
+
+for(let i = 0; i < 10; i++) arrResult.push(i + 1)
+
+console.log(arrResult)
+
